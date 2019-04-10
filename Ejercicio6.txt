@@ -1,0 +1,9 @@
+React 6 - AJAX con React - Ejercicio 1
+
+1.	Haremos un ejercicio similar funcionalmente al de los posts.
+2.	Crearemos nosotros una base de datos Real Time en Firebase.
+3.	Mostraremos un listado de productos mostrando: Nombre e imagen en miniatura.
+4.	Pulsando la miniatura, se mostrará la información completa del producto: Nombre, Descripción, Precio e imagen ampliada.
+5.	Las imágenes las guardaremos en el Storage de Firebase. En la ficha del producto almacenaremos la URL (no es necesario implementar la carga de imágenes desde React al Storage).
+6.	Crearemos el formulario de inserción de productos: Nombre, Descripción, Precio y url de la imagen.
+7.	Recordad que para renderizar un listado de producto React necesita una key única.

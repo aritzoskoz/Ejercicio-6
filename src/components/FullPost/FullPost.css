@@ -1,0 +1,28 @@
+.FullPost {
+    width: 65%;
+    margin: 20px auto;
+    border: 8px solid red;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.Edit label {
+    display: block;
+}
+
+.Edit button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+
+.Edit button.Delete {
+    color:rgb(0, 255, 0);
+}
+
+.Edit button.Delete:hover,
+.Edit button.Delete:active {
+    color: red;
+}
